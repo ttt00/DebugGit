@@ -5,7 +5,8 @@ program Hello;
 {$R *.res}
 
 uses
-  System.SysUtils;
+  System.SysUtils,
+  Unit1 in 'Unit1.pas';
 
 begin
   try
